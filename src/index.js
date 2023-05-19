@@ -1,11 +1,7 @@
 import { StrictMode } from "react";
 import ReactDom from "react-dom";
 
-//import App from "./App";
-
-const App = () => {
-  return <h1>こんにちは</h1>;
-};
+import App from "./App";
 
 ReactDom.render(
   <StrictMode>
